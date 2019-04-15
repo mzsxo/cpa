@@ -1,0 +1,44 @@
+.bg-light{
+     background:red;
+}
+
+label{
+    color:black;
+}
+
+nav{
+    background:#43395b;
+}
+
+.navbar-toggler{
+    background:white;
+}
+
+.nav-link{
+    color:lime!important;
+}
+
+.navbar-toggler-icon{
+    background: black;
+}
+
+.navbar-brand{
+    background:white;
+    color:red!important;
+}
+
+
+body{
+    background:white;
+    color:black;
+}
+
+a:hover {
+  color: pink;
+
+    }
+
+h2{
+    color:#43395b;
+    font:40px;
+}

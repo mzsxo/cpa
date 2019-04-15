@@ -1,23 +1,17 @@
 <html>
 
 <head>
-<title>hi</title>
+    <title>hi</title>
+ <link href="assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 
 <body>
-<?php require_once('partials/nav.php') ?>
-    <link href="assets/style.css" rel="stylesheet">
+    <?php require_once('partials/nav.php') ?>
     <h2>About</h2>
-<form action="extras/partials/search.php" method="GET">
-    <input type="text" name="query" />
-    <input type="submit" value="Search" />
-</form>
-        <?php require_once('partials/footer.php') ?>
-    </body>
+    <br>
+    hihihihihi
+    <?php require_once('partials/footer.php') ?>
+</body>
 
 </html>
-
-
-
-
-        <?php require_once('extras/partials/search.php') ?>
